@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="step2">
+    <!-->
+    <condition property="exclude_share_jar_condition">
+        <istrue value="${exclude_share_jar}" />  
+    </condition>
+    <-->
+    <echo message="Begin uploadForquotePartnerEAR..."/>
+</project>
