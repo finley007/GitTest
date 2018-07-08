@@ -6,4 +6,5 @@
     </condition>
     <-->
     <echo message="Run step1"/>
+    <echo message="${base.dir}">
 </project>
